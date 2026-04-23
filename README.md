@@ -1,13 +1,9 @@
-## Olá, me chamo Guilherme.
+Me chamo Guilherme, tenho 17 anos e estou no 3º ano do Ensino Médio Técnio em Informática.
 
-Sou estudante do 3º ano do Ensino Médio e desenvolvedor Full Stack em formação,
-com foco em desenvolvimento mobile.
+Estudo desenvolvimento mobile com foco em Dart, Kotlin e Swift.
+Uso Python no back-end para complementar minha formação como Full Stack.
 
-Trabalho principalmente com Dart e Swift para criar aplicações móveis,
-e uso Python e Kotlin para dar suporte no back-end e expandir minha visão
-além das telas.
-
-Acredito que a melhor forma de aprender é colocar a mão no código, então é exatamente isso que você vai encontrar aqui.
+Aqui você vai encontrar os projetos que tenho construído ao longo dessa jornada.
 
 <!--
 **guilhermedomingues-dev/guilhermedomingues-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
