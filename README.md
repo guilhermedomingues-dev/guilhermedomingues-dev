@@ -1,3 +1,5 @@
+## Olá!
+
 Me chamo Guilherme, tenho 17 anos e estou no 3º ano do Ensino Médio Técnio em Informática.
 
 Estudo desenvolvimento mobile com foco em Dart, Kotlin e Swift.
