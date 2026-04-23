@@ -1,4 +1,13 @@
- ## Hi there 👋
+## Olá, me chamo Guilherme.
+
+Sou estudante do 3º ano do Ensino Médio e desenvolvedor Full Stack em formação,
+com foco em desenvolvimento mobile.
+
+Trabalho principalmente com Dart e Swift para criar aplicações móveis,
+e uso Python e Kotlin para dar suporte no back-end e expandir minha visão
+além das telas.
+
+Acredito que a melhor forma de aprender é colocar a mão no código, então é exatamente isso que você vai encontrar aqui.
 
 <!--
 **guilhermedomingues-dev/guilhermedomingues-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
